@@ -9,9 +9,3 @@ See the list of [Docker Hub tags](https://hub.docker.com/r/buildkite/puppeteer/t
 ## Example
 
 See the [example directory](example) for a complete Docker Compose example, showing how to run Puppeteer against a linked Docker Compose web service.
-
-## Releasing
-
-1. Create a new release on GitHub. The image is tagged with the same version as Puppeteer.
-2. Docker Hub automatically builds images for the tag.
-3. There is no step 3.
